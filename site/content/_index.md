@@ -1,9 +1,9 @@
 ---
-title: "Chroma Bio Lab"
-subtitle: Ai + Bio
+title: "太仓克洛玛生物技术有限公司"
+subtitle: Chroma Bio Ai + Bio
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Chroma Bio Lab?
+    heading: 太仓克洛玛生物技术有限公司的強項?
     text: "Chroma Bio Lab ....."
 intro:
     heading: "What we offer"
